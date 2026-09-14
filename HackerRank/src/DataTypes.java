@@ -1,6 +1,4 @@
-package aula02;
 import java.util.*;
-import java.io.*;
 
 public class DataTypes {
     public static void main(String []argh)

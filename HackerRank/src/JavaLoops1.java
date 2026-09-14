@@ -1,5 +1,3 @@
-package aula03;
-
 import java.io.*;
 
 public class JavaLoops1 {

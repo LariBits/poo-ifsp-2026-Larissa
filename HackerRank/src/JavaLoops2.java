@@ -1,5 +1,4 @@
 import java.util.*;
-import java.io.*;
 
 class JavaLoops2{
     public static void main(String []argh){

@@ -2,20 +2,26 @@ import java.io.*;
 import java.math.*;
 import java.security.*;
 import java.text.*;
+import java.time.DayOfWeek;
 import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 import java.time.LocalDate;
-import java.time.format.TextStyle;
 
 class Result {
 
     public static String findDay(int month, int day, int year) {
+        //LocalDate.of(year, month, day).getDayOfWeek().name();
+
         LocalDate data = LocalDate.of(year, month, day);
+        DayOfWeek dw = data.getDayOfWeek();
+        String diaDaSemana = dw.name();
 
-        return data.getDayOfWeek().toString();
+        return diaDaSemana;
     }
-
+    public static void main (String[] args){
+        System.out.println(findDay(9,10,2026));
+    }
 }
 
 public class DateAndTime {
