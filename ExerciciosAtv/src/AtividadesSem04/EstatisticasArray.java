@@ -1,7 +1,7 @@
-package AtividadesSem4;
+package AtividadesSem04;
 import java.util.Scanner;
 
-public class EstatisticasArray {
+public class   EstatisticasArray {
     public static void main(String[] args){
         Scanner teclado = new Scanner(System.in);
         int[] valores = new int[5];

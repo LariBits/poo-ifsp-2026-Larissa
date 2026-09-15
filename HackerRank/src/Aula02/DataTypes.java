@@ -1,3 +1,5 @@
+package Aula02;
+
 import java.util.*;
 
 public class DataTypes {

@@ -1,4 +1,4 @@
-package AtividadesSem4;
+package AtividadesSem04;
 import java.util.ArrayList;
 
 public class ParesImpares {

@@ -1,6 +1,8 @@
+package Aula03;
+
 import java.util.*;
 
-public class If_Else {
+public class JavaIfElse {
 
     private static final Scanner scanner = new Scanner(System.in);
 

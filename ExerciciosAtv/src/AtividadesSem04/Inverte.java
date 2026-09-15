@@ -1,4 +1,4 @@
-package AtividadesSem4;
+package AtividadesSem04;
 
 public class Inverte {
     public static void main(String[] args){

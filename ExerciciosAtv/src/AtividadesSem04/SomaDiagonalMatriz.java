@@ -1,4 +1,4 @@
-package AtividadesSem4;
+package AtividadesSem04;
 
 public class SomaDiagonalMatriz {
     public static void main(String[] args){
@@ -11,8 +11,8 @@ public class SomaDiagonalMatriz {
 
         for(int i = 0; i < matriz.length; i++){
             for(int j = 0; j < matriz.length; j++){
-                if(TODO_CONDICAO_DIAGONAL){
-                    somaDiagonal += matriz[i][j];
+                if(i == j){
+                    somaDiagonal += matriz[i][j + 1];
                 }
             }
         }
