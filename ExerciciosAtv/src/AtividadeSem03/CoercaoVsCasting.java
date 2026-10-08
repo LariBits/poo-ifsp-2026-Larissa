@@ -1,4 +1,4 @@
-package Aula03;
+package AtividadeSem03;
 
 public class CoercaoVsCasting {
     public static void main (String[] args){

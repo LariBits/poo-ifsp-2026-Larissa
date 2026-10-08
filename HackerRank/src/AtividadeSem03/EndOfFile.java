@@ -1,4 +1,4 @@
-package Aula03;
+package AtividadeSem03;
 
 import java.util.Scanner;
 

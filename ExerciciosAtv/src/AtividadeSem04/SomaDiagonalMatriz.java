@@ -1,4 +1,4 @@
-package AtividadesSem04;
+package AtividadeSem04;
 
 public class SomaDiagonalMatriz {
     public static void main(String[] args){

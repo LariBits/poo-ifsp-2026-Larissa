@@ -1,4 +1,4 @@
-package AtividadesSem04;
+package AtividadeSem04;
 import java.util.Scanner;
 
 public class   EstatisticasArray {

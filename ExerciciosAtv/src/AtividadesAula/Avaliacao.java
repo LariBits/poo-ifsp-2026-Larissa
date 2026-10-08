@@ -1,3 +1,5 @@
+package AtividadesAula;
+
 import java.util.Scanner;
 
 public class Avaliacao {

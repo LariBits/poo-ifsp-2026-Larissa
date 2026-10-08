@@ -1,4 +1,4 @@
-package app;
+package AtividadesAula;
 
 public class OperadoresLogicos {
     public OperadoresLogicos() {
